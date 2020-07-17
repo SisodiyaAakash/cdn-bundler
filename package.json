@@ -1,0 +1,35 @@
+{
+  "name": "cdn-bundler",
+  "version": "1.0.0",
+  "description": "Bundle static files",
+  "main": "lib/index.js",
+  "preferGlobal": true,
+  "bin": {
+    "cdn-bundler": "./lib/index.js"
+  },
+  "author": {
+    "name": "Rajat Sharma",
+    "email": "rajat.prototype@gmail.com",
+    "url": "https://twitter.com/Rajat04500210"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "bundler",
+    "cdnbundler",
+    "cdn-bundler"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "node-emoji": "^1.10.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/node": "^14.0.23",
+    "@types/node-emoji": "^1.8.1",
+    "@types/node-fetch": "^2.5.7"
+  }
+}

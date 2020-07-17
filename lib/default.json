@@ -1,0 +1,5 @@
+{
+    "configFileName": ".bundler",
+    "outFileName": "bundle",
+    "outFileExtension": ".txt"
+}
