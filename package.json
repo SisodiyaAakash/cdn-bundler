@@ -1,21 +1,7 @@
 {
   "name": "cdn-bundler",
   "version": "1.0.0",
-  "description": "Bundle static files",
-  "main": "lib/index.js",
-  "preferGlobal": true,
-  "bin": {
-    "cdn-bundler": "./lib/index.js"
-  },
-  "author": {
-    "name": "Rajat Sharma",
-    "email": "rajat.prototype@gmail.com",
-    "url": "https://twitter.com/Rajat04500210"
-  },
-  "scripts": {
-    "build": "tsc"
-  },
-  "keywords": [
+  "descrip
     "bundler",
     "cdnbundler",
     "cdn-bundler"
